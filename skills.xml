@@ -1,0 +1,15 @@
+ <?xml version="1.0" encoding="utf-8" ?>
+<skills>
+        <point_1>Терминал Linux</point_1>
+        <point_2>GitBash</point_2>
+        <point_3>HTTP Методы</point_3>
+        <point_4>Формат JSON</point_4>
+        <point_5>Формат XML</point_5>
+        <point_6>API</point_6>
+        <point_7>POSTMAN</point_7>
+        <point_8>DevTools</point_8>
+        <point_9>Charles</point_9>
+        <point_10>Fidler</point_10>
+        <point_11>JMeter</point_11>
+        <point_12>Основы SQL</point_12>
+</skills>
