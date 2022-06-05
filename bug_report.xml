@@ -1,1 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?> 
+<attribute>
+  <id>Уникальный идентификатор</id>
+  <summary>Краткое описание ошибки</summary>
+  <environment>Ссылка на билд/версию ПО и всего окружения</environment>
+  <steps>Полный перечень шагов для воспроизведения ошибки</steps>
+  <expected_result>Ожидаемый результат</expected_result>
+  <actual_result>фастический результат</actual_result>
+  <attachments>Вложения: логи, скриншоты, видео</attachments>
+</attribute>		
