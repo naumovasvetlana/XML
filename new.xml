@@ -1,5 +1,7 @@
-<?xml>
+<<?xml version="1.0" encoding="UTF-8"?>
+<information>
 	<name>Svetlana Naumova</name>
 	<age>30</age>
 	<pets>1</pets>
 	<salary>300y.e</salary>
+</information>
